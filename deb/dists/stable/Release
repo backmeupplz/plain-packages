@@ -1,0 +1,19 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Thu, 22 Oct 2026 17:51:36 +0000
+Label: plain
+Origin: plain
+Suite: stable
+MD5Sum:
+ f52ef4a16346bdf4cd23e119e8c385be             2040 main/binary-amd64/Packages
+ 51332753c9de581ae8de662c2fba9428              909 main/binary-amd64/Packages.gz
+SHA1:
+ 943d45863fcbd80ed28c9ad542368b733f03cc7f             2040 main/binary-amd64/Packages
+ a1b2e1c8f3424b0844362ac31e285756bc822597              909 main/binary-amd64/Packages.gz
+SHA256:
+ fa1d043ecbb499e18d8642d722c74e3296ca7c4aabe9971fe3d2bc6248d92dd6             2040 main/binary-amd64/Packages
+ e45d91af65e27c8197ca38367385d4caa1151c35af29809a90c065a8c7bd308a              909 main/binary-amd64/Packages.gz
+SHA512:
+ bd56dc8d0955d276dab74df508064de4eb3ea65f8c5e2e9acdfb06bf773daef8f4766a2fa978384f5392c4be23dcb1eebe7e948b391fdd1981d80278f50bbf18             2040 main/binary-amd64/Packages
+ 8479ea8f4a7bc1b60e6ed102ccf50d41fa5724d1dffbd750cfdbcb2a271df4627bd7e95ee1f98dc5c4ad2c9e2e4d89758fe725b67f3aab8beeccb50c534a691f              909 main/binary-amd64/Packages.gz

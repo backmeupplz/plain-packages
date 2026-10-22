@@ -1,0 +1,51 @@
+Package: plain
+Architecture: amd64
+Version: 0.3.2
+Priority: optional
+Section: devel
+Maintainer: Nikita Kolmogorov <backmeupplz@gmail.com>
+Installed-Size: 8516
+Depends: libc6 (>= 2.34), libgcc-s1
+Filename: pool/main/plain_0.3.2_amd64.deb
+Size: 4301258
+MD5sum: 614a887cf545330c993b42fdac168c7e
+SHA1: 83d37637e0452d3ec3a39a1e1baa0b69cd9ffd26
+SHA256: 31242e96e8a0d7ba58422e5ab6fef8c6b05b6eca525833d6ca52a3789c91421a
+SHA512: e0ffcf08d799bb5cdb294702f5a61ba023e0dd91e2f23af7ed530007395de7aa74e4c039cc2221ad1d7c7f07d23c3441331a3d14840a5f55e0337a08b8f54b24
+Homepage: https://getplain.org
+Description: Compile, test and deploy EVM smart contracts with a single binary that needs no setup
+
+Package: plain
+Architecture: amd64
+Version: 0.4.0
+Priority: optional
+Section: devel
+Maintainer: Nikita Kolmogorov <backmeupplz@gmail.com>
+Installed-Size: 8959
+Depends: libc6 (>= 2.34), libgcc-s1
+Filename: pool/main/plain_0.4.0_amd64.deb
+Size: 4503166
+MD5sum: a1e4237ab0099f17632a7ab95551fd40
+SHA1: 0a279a7d9848aa86166702bc5ff4d3ea9bf08e7c
+SHA256: cd3e1f8792e676eefaae179d7898c99748070b9b2ab21d549d264d4462b6e21e
+SHA512: a711581fb1c08dd3f8151b587a92de4a76c28157851358472d5655f21dbe19c7f2d1e5db32a3e110c7631082528305f3f575d060d447400ff5c3a6e42c16e59c
+Homepage: https://getplain.org
+Description: Compile, test and deploy EVM smart contracts with a single binary that needs no setup
+
+Package: plain
+Architecture: amd64
+Version: 0.4.1
+Priority: optional
+Section: devel
+Maintainer: Nikita Kolmogorov <backmeupplz@gmail.com>
+Installed-Size: 9041
+Depends: libc6 (>= 2.34), libgcc-s1
+Filename: pool/main/plain_0.4.1_amd64.deb
+Size: 4541194
+MD5sum: 93e1839ba6e7bc1fbf1f2701709f693c
+SHA1: 640d93054d9cd6710da2816dbfcd0b8eea7a5cf0
+SHA256: e6704c2e5ae75f7f55e8f21e1b570ffa5a4a1caa30486e988f8544af6bfebb6e
+SHA512: a1a65180fee0a8105c301718fe7fc29ad7f383672feef277a92f278f752d6907c47e2b89491354303d364c23e78a9a8066f765ecaff04485a5922c5ea9a5811d
+Homepage: https://getplain.org
+Description: Compile, test and deploy EVM smart contracts with a single binary that needs no setup
+
